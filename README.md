@@ -38,7 +38,6 @@
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=glakshya20&style=for-the-badge&color=blueviolet)
 
 </div>
 

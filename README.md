@@ -298,19 +298,17 @@ A lightweight web application for generating customizable QR codes.
 ---
 # 📊 GitHub Analytics
 
-<div align="center">
+<<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=glakshya20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=glakshya20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glakshya20&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=glakshya20&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=glakshya20&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -320,7 +318,7 @@ A lightweight web application for generating customizable QR codes.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=glakshya20&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=glakshya20&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -405,8 +403,36 @@ open_to:
 
 ---
 
-# 💡 Fun Fact
+---
 
-> *I enjoy transforming ideas into intelligent software products by combining AI, machine learning, and modern full-stack development.*
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/glakshya20">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://wealthpulse-personal-finance-platform.streamlit.app/">
+<img src="https://img.shields.io/badge/ET-WealthPulse-Live-blueviolet?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
+
+<div align="center">
+
+### 💡 *"Code. Learn. Build. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
+
+</div>

@@ -296,3 +296,117 @@ A lightweight web application for generating customizable QR codes.
 </details>
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=glakshya20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glakshya20&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=glakshya20&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=glakshya20&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=glakshya20&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/glakshya20/glakshya20/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+> **Note:** The snake animation requires a GitHub Action. We'll set that up after the README is complete.
+
+---
+
+# 🌟 Achievements
+
+<div align="center">
+
+| Achievement | Details |
+|-------------|---------|
+| 🏆 Economic Times Hackathon | Built **ET-WealthPulse**, an AI-powered personal finance platform |
+| 🤖 AI Development | Developed LLM-powered applications with Retrieval-Augmented Generation (RAG) |
+| 💻 Full Stack Projects | Built modern web applications using React, FastAPI, Node.js & MongoDB |
+| 📊 Machine Learning | Implemented end-to-end ML pipelines for prediction and classification |
+| 🌱 Continuous Learning | Regularly exploring AI Engineering, backend systems, and intelligent automation |
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced Retrieval-Augmented Generation (RAG)
+  - Agentic AI
+  - AI System Design
+  - FastAPI
+
+building:
+  - AI-powered Products
+  - Full Stack Applications
+  - Intelligent Automation
+
+exploring:
+  - MCP (Model Context Protocol)
+  - AI Workflows
+  - Production-ready LLM Applications
+
+open_to:
+  - AI Engineering Internships
+  - Software Engineering Internships
+  - Open Source Collaboration
+```
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| AI | Backend | Frontend | Tools |
+|----|---------|----------|-------|
+| RAG | FastAPI | React | Git |
+| Prompt Engineering | REST APIs | Tailwind CSS | GitHub |
+| LLM Integration | Authentication | Responsive UI | Postman |
+
+</div>
+
+---
+
+# 💡 Fun Fact
+
+> *I enjoy transforming ideas into intelligent software products by combining AI, machine learning, and modern full-stack development.*
+
+---

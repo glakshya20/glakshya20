@@ -143,3 +143,156 @@ Recently, I've been building AI-powered financial platforms, machine learning mo
 - Open Source Collaboration
 
 ---
+---
+
+# 🧠 AI & ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Experience |
+|---------|-------------|------------|
+| 🤖 LLM Applications | ⭐⭐⭐⭐☆ | Built AI-powered financial assistants and report generation workflows |
+| ✍️ Prompt Engineering | ⭐⭐⭐⭐☆ | Designed structured prompts to improve reasoning and reduce hallucinations |
+| 📊 Machine Learning | ⭐⭐⭐⭐☆ | Classification, preprocessing, feature engineering & model evaluation |
+| 📈 Data Analysis | ⭐⭐⭐⭐☆ | Pandas, NumPy, Matplotlib, data visualization |
+| 🌐 Full Stack AI Integration | ⭐⭐⭐⭐☆ | Connected AI models with React, FastAPI and modern web applications |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<details open>
+<summary><b>🥇 ET-WealthPulse — AI-Powered Personal Finance Platform</b></summary>
+
+<br>
+
+AI-powered financial platform developed during the **Economic Times Hackathon** to simplify investment analysis and financial planning using LLMs and Retrieval-Augmented Generation.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | React • FastAPI • Python • LLM APIs • RAG |
+| **Core Features** | Portfolio Analysis, Financial Reports, AI Insights, News Summaries |
+| **Architecture** | Modular AI workflows with intelligent report generation |
+| **Highlights** | PDF reports, dashboard, personalized recommendations |
+| **Status** | 🚀 Active Development |
+
+### Key Features
+
+- 📈 Portfolio performance analysis
+- 🤖 AI-powered financial insights
+- 📄 Automated report generation
+- 🔍 RAG-based contextual retrieval
+- 📊 Interactive dashboards
+- 📥 Downloadable financial reports
+
+**🔗 Repository:** https://github.com/glakshya20/ET-WealthPulse
+
+</details>
+
+---
+
+<details>
+<summary><b>🥈 Snip-Ly — Modern URL Shortener</b></summary>
+
+<br>
+
+A modern full-stack URL shortening platform focused on usability, security, and performance.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | React • Node.js • Express • MongoDB |
+| **Features** | URL Shortening, QR Codes, Analytics |
+| **Authentication** | Secure User Login |
+| **Status** | ✅ Completed |
+
+### Highlights
+
+- 🔗 Custom short URLs
+- 📊 Click analytics
+- 📱 Responsive UI
+- 🔐 Authentication
+- 📥 QR Code generation
+
+**🔗 Repository:** https://github.com/glakshya20/snip-ly
+
+</details>
+
+---
+
+<details>
+<summary><b>🥉 Human Activity Recognition System</b></summary>
+
+<br>
+
+Machine Learning project for recognizing human activities from sensor-based datasets.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | Python • Scikit-learn • Pandas |
+| **Domain** | Machine Learning |
+| **Focus** | Classification & Feature Engineering |
+| **Status** | ✅ Completed |
+
+### Highlights
+
+- 📊 Data preprocessing
+- ⚙️ Feature engineering
+- 🤖 Model comparison
+- 📈 Performance evaluation
+- 📉 Accuracy analysis
+
+</details>
+
+---
+
+<details>
+<summary><b>⭐ Loan Prediction System</b></summary>
+
+<br>
+
+End-to-end machine learning project predicting loan approval using financial data.
+
+| Category | Details |
+|----------|---------|
+| **Algorithms** | Logistic Regression • Random Forest • SVM |
+| **Tech Stack** | Python • Scikit-learn |
+| **Focus** | Model Optimization |
+| **Status** | ✅ Completed |
+
+### Highlights
+
+- 📊 Exploratory Data Analysis
+- ⚙️ Feature Engineering
+- 🎯 Hyperparameter Tuning
+- 📈 Model Evaluation
+- 📉 Confusion Matrix & Metrics
+
+</details>
+
+---
+
+<details>
+<summary><b>⭐ QR Code Generator</b></summary>
+
+<br>
+
+A lightweight web application for generating customizable QR codes.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | HTML • CSS • JavaScript |
+| **Focus** | Frontend Development |
+| **Status** | ✅ Completed |
+
+### Highlights
+
+- ⚡ Instant QR generation
+- 📥 Download support
+- 🎨 Clean responsive UI
+- 🚀 Lightweight implementation
+
+</details>
+
+---

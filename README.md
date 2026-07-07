@@ -304,6 +304,9 @@ A lightweight web application for generating customizable QR codes.
 </details>
 
 ---
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=glakshya20&theme=github-dark"/>
+</div>
 
 # 🌟 Achievements
 

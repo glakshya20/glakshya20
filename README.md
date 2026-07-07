@@ -296,55 +296,6 @@ A lightweight web application for generating customizable QR codes.
 </details>
 
 ---
-# 📊 GitHub Analytics
-
-<<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=glakshya20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glakshya20&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=glakshya20&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=glakshya20&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=glakshya20&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/glakshya20/glakshya20/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
-> **Note:** The snake animation requires a GitHub Action. We'll set that up after the README is complete.
-
----
 
 # 🌟 Achievements
 
@@ -417,13 +368,10 @@ open_to:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:glakshya2020@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="mailto:GLAKSHYA2020@GMAIL.COM">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://wealthpulse-personal-finance-platform.streamlit.app/">
-<img src="https://img.shields.io/badge/ET-WealthPulse-Live-blueviolet?style=for-the-badge"/>
-</a>
 
 </div>
 

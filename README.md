@@ -26,17 +26,15 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/lakshya-gupta7">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:glakshya2020@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"/>
-</a>
+
 
 </p>
 
@@ -52,7 +50,7 @@ I'm **Lakshya Gupta**, a Computer Science undergraduate at **Thapar Institute of
 
 My interests lie at the intersection of **Artificial Intelligence**, **Full Stack Development**, and **Product Engineering**. I enjoy transforming ideas into scalable applications using modern development practices and AI technologies.
 
-Recently, I've been building AI-powered financial platforms, Retrieval-Augmented Generation (RAG) systems, machine learning models, and full-stack web applications with React, FastAPI, and Node.js.
+Recently, I've been building AI-powered financial platforms, machine learning models, and full-stack web applications with React, FastAPI, and Node.js.
 
 ---
 
@@ -72,7 +70,7 @@ Recently, I've been building AI-powered financial platforms, Retrieval-Augmented
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql"/>
 
 </p>
 
@@ -102,7 +100,7 @@ Recently, I've been building AI-powered financial platforms, Retrieval-Augmented
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
 </p>
 
@@ -117,7 +115,6 @@ Recently, I've been building AI-powered financial platforms, Retrieval-Augmented
 </p>
 
 - Machine Learning
-- Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
 - LLM Integration
 - Scikit-learn
@@ -131,7 +128,7 @@ Recently, I've been building AI-powered financial platforms, Retrieval-Augmented
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
 </p>
 

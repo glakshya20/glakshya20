@@ -30,14 +30,17 @@
 <a href="https://linkedin.com/in/lakshya-gupta7">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+&nbsp;
 
 <a href="https://leetcode.com/u/glakshya/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+&nbsp;
 
 <a href="mailto:glakshya2020@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
+&nbsp;
 
 
 

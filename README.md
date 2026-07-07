@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://leetcode.com/u/glakshya/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-glakshya-F89F1B?style=flat-square&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="mailto:glakshya2020@gmail.com">

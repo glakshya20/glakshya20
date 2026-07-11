@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+LLM-powered+Applications;Retrieval-Augmented+Generation+(RAG);Machine+Learning+%7C+React+%7C+FastAPI;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+LLM-powered+Applications;Machine+Learning+%7C+React+%7C+FastAPI;Always+Learning.+Always+Building." />
 
 <br>
 

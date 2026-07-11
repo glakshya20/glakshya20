@@ -195,7 +195,7 @@ AI-powered financial platform developed during the **Economic Times Hackathon** 
 - 📊 Interactive dashboards
 - 📥 Downloadable financial reports
 
-**🔗 Repository:** https://github.com/glakshya20/ET-WealthPulse
+**🔗 Repository:** https://github.com/glakshya20/wealthpulse-personal-finance-platform
 
 </details>
 
